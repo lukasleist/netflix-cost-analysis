@@ -6,7 +6,7 @@ The Analysis is based on Segment Information obtained from [Financial Releases](
 
 ## Results
 ### Number of users
-![Number of users]("./Nutzerzahlen.png")
+![Number of users](./Nutzerzahlen.png)
 
 ### Cost per User in relation to Number of Users
-![Cost per User in relation to Number of Users]("./Kosten.png")
+![Cost per User in relation to Number of Users](./Kosten.png)
